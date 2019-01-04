@@ -1,6 +1,3 @@
-// main.cpp : �w�q�D���x���ε{�����i�J�I�C
-//
-
 #include "ReceiverSocket.h"
 #include "JpegDecoder.h"
 
@@ -29,4 +26,3 @@ int main(int argc, char **argv) {
 
     return 0;
 }
-
